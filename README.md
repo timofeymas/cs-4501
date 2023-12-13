@@ -3,6 +3,12 @@
 ## Refereneces:
 https://moz.com/top500</br>
 https://github.com/X4BNet/lists_vpn/blob/main/output/vpn/ipv4.txt </br>
+https://www.youtube.com/watch?v=r3JPjtb0Asc </br>
+https://www.quora.com/How-do-I-save-a-Python-request-session </br>
+https://stackoverflow.com/questions/15316304/open-tor-browser-with-selenium </br>
+https://stackoverflow.com/a/60359703 </br>
+https://api.ipify.org?format=json </br>
+https://coveryourtracks.eff.org/kcarter?aat=1 </br>
 
 ## Sample Test Output:
 Normal Test:</br>
