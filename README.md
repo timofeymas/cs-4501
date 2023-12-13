@@ -7,8 +7,10 @@ https://www.youtube.com/watch?v=r3JPjtb0Asc </br>
 https://www.quora.com/How-do-I-save-a-Python-request-session </br>
 https://stackoverflow.com/questions/15316304/open-tor-browser-with-selenium </br>
 https://stackoverflow.com/a/60359703 </br>
+
 Webpage used for ip extraction: </br>
 https://api.ipify.org?format=json </br>
+
 Webpage used for browser fingerprinting: </br>
 https://coveryourtracks.eff.org/kcarter?aat=1 </br>
 
