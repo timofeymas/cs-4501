@@ -1,1 +1,5 @@
 env/
+__pycache__/
+normal.pkl
+tor.pkl
+vpn.pkl
