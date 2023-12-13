@@ -5,7 +5,7 @@ https://github.com/X4BNet/lists_vpn/blob/main/output/vpn/ipv4.txt
 https://moz.com/top500
 
 # Sample Test
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
 Normal Test:
 Testing the unique fingerprint of the normal browser:
 You are not protected against tracking on the web.
@@ -41,7 +41,7 @@ Normal Connection:
 Number of Cookies in Normal Connection:
 The amount of cookies in normal session is: 26
 After connecting to time.com the amount of cookies in the normal session is: 26
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
 VPN Test:
 Testing the unique fingerprint of the VPN browser:
 You are not protected against tracking on the web.
@@ -77,7 +77,7 @@ VPN Connection:
 Number of Cookies in VPN Connection:
 The amount of cookies in vpn session is: 26
 After connecting to time.com the amount of cookies in the vpn session is: 26
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
 TOR Test:
 Testing the unique fingerprint of the TOR browswer:
 You have strong protection against web tracking.
@@ -110,4 +110,4 @@ Tor Connection:
 Number of Cookies in TOR Connection:
 The amount of cookies in tor session is: 12
 After connecting to time.com the amount of cookies in the tor session is: 12
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
