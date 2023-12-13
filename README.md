@@ -14,6 +14,9 @@ https://api.ipify.org?format=json </br>
 Webpage used for browser fingerprinting: </br>
 https://coveryourtracks.eff.org/kcarter?aat=1 </br>
 
+Webpage used to downliad files </br>
+http://{ipv}.download.thinkbroadband.com:{port}/{size}.zip
+
 ## How to run:
 ### 1. Make sure to install all necessary dependencies in the `requirements.txt` file
 ### 2. Using the terminal run `server.py`
