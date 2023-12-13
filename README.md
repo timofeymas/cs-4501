@@ -40,7 +40,7 @@ Normal Connection:
 Number of Cookies in Normal Connection:
 The amount of cookies in normal session is: 26
 After connecting to time.com the amount of cookies in the normal session is: 26
-─────────────────────────────────────────────────────────── </br>
+─────────────────────────────────────────────────── </br>
 VPN Test:
 Testing the unique fingerprint of the VPN browser:
 You are not protected against tracking on the web.
@@ -76,7 +76,7 @@ VPN Connection:
 Number of Cookies in VPN Connection:
 The amount of cookies in vpn session is: 26
 After connecting to time.com the amount of cookies in the vpn session is: 26
-─────────────────────────────────────────────────────────── </br>
+─────────────────────────────────────────────────── </br>
 TOR Test:
 Testing the unique fingerprint of the TOR browswer:
 You have strong protection against web tracking.
@@ -109,4 +109,4 @@ Tor Connection:
 Number of Cookies in TOR Connection:
 The amount of cookies in tor session is: 12
 After connecting to time.com the amount of cookies in the tor session is: 12
-─────────────────────────────────────────────────────────── </br>
+─────────────────────────────────────────────────── </br>
