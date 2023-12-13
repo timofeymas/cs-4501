@@ -14,6 +14,12 @@ https://api.ipify.org?format=json </br>
 Webpage used for browser fingerprinting: </br>
 https://coveryourtracks.eff.org/kcarter?aat=1 </br>
 
+## How to run:
+1. Make sure to install all necessary dependencies in the requirements.txt file
+2. Using the terminal run server.py
+3. Using your tor installation run the command: ''src/app/tor --controlport 9051 --socksport 9050''
+4. run main.py
+
 ## Sample Test Output:
 Normal Test:</br>
 Testing the unique fingerprint of the normal browser:</br>
