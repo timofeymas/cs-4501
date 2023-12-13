@@ -20,7 +20,7 @@ https://coveryourtracks.eff.org/kcarter?aat=1 </br>
 ### 3. Using with system `tor`
 `tor` needs to be installed (`apt install tor`) and running on port 9050.</br>
 `src/app/tor --controlport 9051 --socksport 9050`
-5. run main.py
+### 4. run `main.py`
 
 ## Sample Test Output:
 Normal Test:</br>
