@@ -1,10 +1,10 @@
 # cs-4501
 
-# Refereneces
+## Refereneces
 https://github.com/X4BNet/lists_vpn/blob/main/output/vpn/ipv4.txt
 https://moz.com/top500
 
-# Sample Test
+## Sample Test Output
 ────────────────────────────────────────────────────────────────────────────────
 Normal Test:
 Testing the unique fingerprint of the normal browser:
